@@ -15,6 +15,8 @@
 7) Там вы найдете файл с именем qwqdanchunlogs.txt.
 8) Если вы хотите, чтобы автономный кейлоггер сохранял данные с именем, отличным от qwqdanchunlogs.txt, то декомпилируйте файл кейлоггера, имя qwqdanchunlogs.txt находится в Keylogger/Program.cs.
 
+
+
 How to get offline keylogger data?
 It's not as easy as the author of DcRat intended.
 1) The plugins contain the file KL.exe
@@ -25,6 +27,9 @@ It's not as easy as the author of DcRat intended.
 6) Follow the path: Disk:/Users/Username/AppData/Roaming
 7) There you will find a file called qwqdanchunlogs.txt
 8) If you want the offline keylogger to save data with a name other than qwqdanchunlogs.txt, then decompile the Keylogger file, the name qwqdanchunlogs.txt is in Keylogger/Program.cs
+
+![blabla](https://user-images.githubusercontent.com/108375436/187451734-030f4480-5cd2-4008-9966-602b702bf74d.png)
+
 #
 
 ![pp](https://user-images.githubusercontent.com/108375436/187348983-eca1eb4a-d0ab-4e49-880d-b8823ee5db94.png)
