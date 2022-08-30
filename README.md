@@ -17,7 +17,7 @@
 
 
 
-How to get offline keylogger data?
+## How to get offline keylogger data?
 It's not as easy as the author of DcRat intended.
 1) The plugins contain the file KL.exe
 2) Rename it to any process to save the process
